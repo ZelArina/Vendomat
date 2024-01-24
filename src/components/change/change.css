@@ -1,0 +1,33 @@
+.btn-change{
+    background-color: black;
+    color: white;
+}
+.hidden{
+    display: none;
+}
+.change{
+    border: 1px solid black;
+    /* max-width: 190px; */
+}
+.change > ul{
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px;
+    margin: 10px 5px;
+    text-align: center
+}
+.change-conteiner{
+    margin: 15px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 190px;
+    /* align-items:center; */
+}
+.change-conteiner > button{
+    width: 100px;
+    /* min-height: 100px; */
+    border-radius: 50%;
+    align-self: center;
+}

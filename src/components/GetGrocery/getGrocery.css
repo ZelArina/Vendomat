@@ -1,0 +1,35 @@
+
+.item{
+    
+    border: 1px solid black;
+    max-height: 100px;
+    max-width: 600px;
+}
+.item > p{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 25px 35px;
+    text-align: center
+}
+.item > ul{
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+    max-height: 100px;
+    max-width: 600px;
+    list-style-type: none;
+    margin: 0px;
+    padding: 5px 10px;
+    overflow: auto;
+}
+.item > ul::-webkit-scrollbar {
+    width: 0;
+  }
+.item > ul > li{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 2px 5px;
+}
