@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZelArina/Vendomat.git/static/css/main.860d508c.css",
+    "main.js": "/ZelArina/Vendomat.git/static/js/main.3818ee20.js",
+    "index.html": "/ZelArina/Vendomat.git/index.html",
+    "main.860d508c.css.map": "/ZelArina/Vendomat.git/static/css/main.860d508c.css.map",
+    "main.3818ee20.js.map": "/ZelArina/Vendomat.git/static/js/main.3818ee20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.860d508c.css",
+    "static/js/main.3818ee20.js"
+  ]
+}
